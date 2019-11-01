@@ -8,7 +8,9 @@ tags:
 
 While [pagination](/docs/pagination/) allows you do iterate over a data set to create multiple templates, a collection allows you to group content in interesting ways. A piece of content can be a part of multiple collections, merely by assigning the same string value to the `tags` key in the front matter.
 
-## A Blog Example
+
+
+## A Blog Example!
 
 For a blog site, your individual post files may use a tag called `post`, but it can be whatever you want. In this example, `mypost.md` has a single tag `post`:
 
