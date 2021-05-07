@@ -3,7 +3,7 @@ subtitle: Pass-through Copy
 tags:
   - docs-config
 ---
-# Pass-through File Copy
+# Pass-through File Copy test
 
 _(New in Eleventy `v0.2.7`)_ Eleventy, by default, searches for any file in the input directory with an extension listed in the `templateFormats` configuration option. That means if you’ve listed `njk` in your `templateFormats`, we’ll look for any Nunjucks templates (files with the `.njk` file extension).
 
